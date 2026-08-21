@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shubhg07/SHUBH_DSA/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhg07/SHUBH_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shubhg07/SHUBH_DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0724-find-pivot-index](https://github.com/shubhg07/SHUBH_DSA/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shubhg07/SHUBH_DSA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhg07/SHUBH_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shubhg07/SHUBH_DSA/tree/master/0540-single-element-in-a-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/shubhg07/SHUBH_DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
